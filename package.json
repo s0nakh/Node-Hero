@@ -22,7 +22,7 @@
   "dependencies": {
     "async": "^3.2.2",
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.6",
     "connect-redis": "^4.0.3",
     "express": "^5.2.0",
     "express-handlebars": "^5.3.1",
